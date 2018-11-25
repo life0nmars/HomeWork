@@ -1,3 +1,7 @@
+#include "pch.h"
+#include <iostream>
+using namespace std;
+ int main()
 int i, vI, maxStep, sum2000, cntAnsw, valX, valY;
 
 	setlocale(LC_ALL, "Rus");
