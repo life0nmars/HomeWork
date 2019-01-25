@@ -42,7 +42,5 @@ int main()
 	for (i = 0; i < N; i++) {
 		cout << masVal[i] << endl;
 	}
-	*/
-	//
 	return 0;
 }
