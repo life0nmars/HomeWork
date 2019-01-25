@@ -37,7 +37,7 @@ int main()
 	cout << endl << "Выполнение заняло (с): " << endTime-startTime << endl;
 	cout << endl << "Искомые номера последовательности: " << iMax+1 << " и " << jMax+1 << endl;
 	cout << endl << "Максимальное произведение: " << maxVal << endl;
-	/*
+
 	cout << endl << "Исходные данные: " << endl;
 	for (i = 0; i < N; i++) {
 		cout << masVal[i] << endl;
